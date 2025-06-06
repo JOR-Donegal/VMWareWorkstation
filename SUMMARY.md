@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Getting Started](introduction/getting-started.md)
 * [Snapshots](snapshots.md)
 * [Clones](clones/README.md)
   * [Research](clones/research.md)
