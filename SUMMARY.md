@@ -11,4 +11,5 @@
   * [Host Only Network](networking/host-only-network.md)
   * [Bridged Network](networking/bridged-network.md)
   * [Lan Segments](networking/lan-segments.md)
+* [Scripting](scripting.md)
 * [Finally](finally.md)
