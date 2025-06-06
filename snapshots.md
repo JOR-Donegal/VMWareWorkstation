@@ -32,6 +32,7 @@ Using your VM, exercise the above listed functions and test. During this process
 
 You should show that you have completed and tested the five specified topics. You should be able to draw some conclusions as to the application of this technique, where it might be used, duration, etc. Your records should demonstrate that you;
 
-1. Fully understand the implications of snapshots.
-2. You understand their application, where and when to use them.
-3. Know the file types to expect while you have live snapshots, before and after.
+1. Use the methodology **Research** then **Do**, then **Test and Document**
+2. Fully understand the implications of snapshots.
+3. You understand their application, where and when to use them.
+4. Know the file types to expect while you have live snapshots, before and after.
