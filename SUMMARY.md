@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to VMWare Workstation](README.md)
+  * [Installation](introduction-to-vmware-workstation/installation.md)
   * [Getting Started](introduction-to-vmware-workstation/getting-started.md)
 * [Snapshots](snapshots.md)
 * [Clones](clones/README.md)
